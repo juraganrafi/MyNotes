@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pajaku</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="date">Date</string>
+    <string name="bbnkb">BBN - KB</string>
+    <string name="pkb">PKB</string>
+    <string name="swdkllaj">SWDKLLAJ</string>
+    <string name="biaya_administrasi_stnk">Biaya Administrasi STNK</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="biaya_administrasi_tnkb">Biaya Administrasi TNKB</string>
+    <string name="bbn_kb">BBN - KB</string>
+    <string name="nama_kendaraan">nama kendaraan</string>
+    <string name="pesan_pengingat">Pesan Pengingat</string>
+    <string name="yyyy_mm_dd">YYYY-MM-DD</string>
+    <string name="hh_mm">HH:MM</string>
+
+</resources>
